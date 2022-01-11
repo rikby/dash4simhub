@@ -2,7 +2,7 @@
 
 ## Installation
 
-* Install dashboard [MbDash - Delta Line.simhubdash](MbDash - Delta Line.simhubdash) into simhub. 
+* Install dashboard [MbDash - Delta Line.simhubdash](MbDash%20-%20Delta%20Line.simhubdash) into simhub.
 * Set it as an overlay if you need to.
 * Copy plugin by copying PluginsData directory into Simhub root.<br>
 Alternatively, you can copy it manually from the file plugin.cs in _SimHub > Additional Plugins > More > Add New Expression_.<br>
