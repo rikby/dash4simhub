@@ -1,3 +1,5 @@
+# DEPRECATED
+
 # Installation
 1. Copy DashTemplates directory into Simhub root (e.g. c:\Program Files (x86)\SimHub\)
 2. Copy plugin by copying PluginsData directory into Simhub root.<br>
