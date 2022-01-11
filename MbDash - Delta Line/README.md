@@ -1,5 +1,7 @@
 # MbDash - Delta Line
 
+Delta time and delta progress bar in iRacing style.
+
 ## Installation
 
 * Install dashboard [MbDash - Delta Line.simhubdash](MbDash%20-%20Delta%20Line.simhubdash) into simhub.
